@@ -1,2 +1,20 @@
-/**/
+  ::-webkit-scrollbar {
+   			width: 0px;
+  }
+  *{
+    margin: none;
+    font-size: 4vh;
+  }
 
+  .corBg{
+    background-color: black;
+  }
+
+  .titulo{
+    background-color: white;
+    border-radius: 1vh;
+  }
+
+  .in{
+    border-radius: 1vh;
+  }
